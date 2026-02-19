@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs and training artifacts
+logs/
+logs/**
+*.log
+
+# Model artifacts
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+
+# TensorBoard
+events.out.tfevents.*
+
+# Pickled/preprocessed artifacts
+artifacts/
+artifacts/**
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and env files
+.env
+.env.*
+secrets.yml
