@@ -1,4 +1,4 @@
-# ANN Churn Intelligence
+# ANN Churn Intelligence  
 
 A compact, production-ready overview for the ANN Churn Intelligence repository. This project contains training artifacts, notebooks, and a saved Keras model for predicting customer churn.
 
